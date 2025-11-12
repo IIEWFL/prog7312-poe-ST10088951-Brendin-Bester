@@ -1,0 +1,50 @@
+﻿<Page x:Class="MunicipalServicesApp.AddEventPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Add Event"
+      Background="{StaticResource PageBackgroundBrush}">
+
+    <Grid Margin="40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="🎉 Add New Event"
+                   Style="{StaticResource PageTitleStyle}"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+        <Border Grid.Row="1" Background="White" Padding="30" CornerRadius="8" BorderBrush="#DDD" BorderThickness="1">
+            <StackPanel>
+                <TextBlock Text="Title:" Style="{StaticResource LabelStyle}"/>
+                <TextBox x:Name="TitleBox" Style="{StaticResource InputStyle}" Margin="0,4,0,12"/>
+
+                <TextBlock Text="Category:" Style="{StaticResource LabelStyle}"/>
+                <TextBox x:Name="CategoryBox" Style="{StaticResource InputStyle}" Margin="0,4,0,12"/>
+
+                <TextBlock Text="Date:" Style="{StaticResource LabelStyle}"/>
+                <DatePicker x:Name="DateBox" Margin="0,4,0,12"/>
+
+                <TextBlock Text="Location:" Style="{StaticResource LabelStyle}"/>
+                <TextBox x:Name="LocationBox" Style="{StaticResource InputStyle}" Margin="0,4,0,12"/>
+
+                <TextBlock Text="Description:" Style="{StaticResource LabelStyle}"/>
+                <TextBox x:Name="DescriptionBox" Style="{StaticResource InputStyle}" Margin="0,4,0,12" AcceptsReturn="True" Height="100"/>
+
+                <TextBlock Text="Image Path (optional):" Style="{StaticResource LabelStyle}"/>
+                <TextBox x:Name="ImagePathBox" Style="{StaticResource InputStyle}" Margin="0,4,0,12"/>
+
+                <Button Content="✅ Submit Event"
+                        Style="{StaticResource ActionButtonStyle}"
+                        Click="OnSubmit"
+                        Margin="0,10,0,0"/>
+
+                <Button Content="⬅ Back"
+                        Style="{StaticResource ActionButtonStyle}"
+                        Click="OnBack"
+                        Margin="0,20,0,0"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

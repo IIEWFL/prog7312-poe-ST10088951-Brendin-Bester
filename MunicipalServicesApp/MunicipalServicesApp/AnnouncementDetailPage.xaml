@@ -1,0 +1,38 @@
+﻿<Page x:Class="MunicipalServicesApp.AnnouncementDetailPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Announcement Detail"
+      Background="{StaticResource PageBackgroundBrush}">
+
+    <Grid Margin="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,12">
+            <Button Content="⬅ Back" Style="{StaticResource ActionButtonStyle}" Click="OnBack" Margin="0,0,8,0"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" Background="White" Padding="20" CornerRadius="6" BorderBrush="#DDD" BorderThickness="1">
+            <StackPanel>
+                <TextBlock x:Name="TitleText" FontSize="18" FontWeight="Bold" TextWrapping="Wrap" Margin="0,0,0,8"/>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,12">
+                    <TextBlock x:Name="CategoryText" Foreground="#666" Margin="0,0,12,0"/>
+                    <TextBlock x:Name="PublishDateText" Foreground="#666" Margin="0,0,12,0"/>
+                    <TextBlock x:Name="ExpiryDateText" Foreground="#999"/>
+                </StackPanel>
+
+                <TextBlock x:Name="BodyText" TextWrapping="Wrap" Foreground="#222" Margin="0,0,0,12"/>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <TextBlock x:Name="AuthorText" Foreground="#666" VerticalAlignment="Center" Margin="0,0,12,0"/>
+                    <Button Content="Delete" Click="OnDelete" Background="#D9534F" Foreground="White" BorderBrush="#B03A2E" Padding="8,4"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <TextBlock Grid.Row="2" x:Name="Footer" Foreground="#555" HorizontalAlignment="Left" Margin="0,12,0,0"/>
+    </Grid>
+</Page>

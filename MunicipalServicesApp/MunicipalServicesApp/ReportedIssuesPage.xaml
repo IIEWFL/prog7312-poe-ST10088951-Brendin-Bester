@@ -1,0 +1,65 @@
+﻿<Page x:Class="MunicipalServicesApp.ReportedIssuesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Reported Issues"
+      Background="{StaticResource PageBackgroundBrush}">
+
+    <Grid Margin="40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Page Title -->
+        <TextBlock Text="📄 Reported Issues"
+                   Style="{StaticResource PageTitleStyle}"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+        <!-- DataGrid -->
+        <DataGrid Grid.Row="1"
+                  ItemsSource="{Binding IssuesList}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  Margin="0,10"
+                  RowHeaderWidth="0"
+                  HeadersVisibility="Column"
+                  ColumnHeaderHeight="35"
+                  RowHeight="80"
+                  GridLinesVisibility="Horizontal"
+                  AlternatingRowBackground="#F9F9F9"
+                  BorderBrush="#CCCCCC"
+                  BorderThickness="1">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Location" Binding="{Binding Location}" Width="150"/>
+                <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="120"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="250"/>
+                <DataGridTextColumn Header="Reported At" Binding="{Binding ReportedAt, StringFormat=\{0:G\}}" Width="150"/>
+
+               
+                <!-- Delete Button -->
+                <DataGridTemplateColumn Header="Actions" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="🗑 Delete"
+                                    Style="{StaticResource ActionButtonStyle}"
+                                    Click="OnDeleteIssue"
+                                    Tag="{Binding}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Back Button -->
+        <Button Grid.Row="2"
+                Content="⬅ Back to Main Menu"
+                Style="{StaticResource ActionButtonStyle}"
+                Click="OnBack"
+                HorizontalAlignment="Left"
+                Margin="0,20,0,0"/>
+    </Grid>
+</Page>

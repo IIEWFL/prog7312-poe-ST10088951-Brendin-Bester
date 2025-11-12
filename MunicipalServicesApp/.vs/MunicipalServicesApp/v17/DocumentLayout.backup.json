@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\services\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\services\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\datastructures\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\datastructures\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\datastructures\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\datastructures\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\datastructures\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\datastructures\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\datastructures\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\datastructures\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\storage\\announcementstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\storage\\announcementstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\services\\eventpersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\services\\eventpersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\services\\announcementpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\services\\announcementpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\datastructures\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\datastructures\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\brendin bester\\desktop\\municipalservicesapp\\municipalservicesapp\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\servicerequestspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\servicerequestspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\servicerequestspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\servicerequestspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\addservicerequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\addservicerequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\addservicerequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\addservicerequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\services\\servicerequestpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\services\\servicerequestpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\municipalservicesapp\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFBA089-4076-4077-8E8B-5E8E4797D80A}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\DataStructures\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\BinarySearchTree.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\DataStructures\\BinarySearchTree.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwAYAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:53:56.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\CustomLinkedList.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\DataStructures\\CustomLinkedList.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\CustomLinkedList.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\DataStructures\\CustomLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:10:34.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\LinkedListNode.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\DataStructures\\LinkedListNode.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\LinkedListNode.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\DataStructures\\LinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:08:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\MinHeap.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\DataStructures\\MinHeap.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\MinHeap.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\DataStructures\\MinHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:58:38.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\Graph.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\DataStructures\\Graph.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\Graph.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\DataStructures\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:58:58.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\ServiceRequestRepository.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Services\\ServiceRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\ServiceRequestRepository.cs*",
+              "RelativeToolTip": "MunicipalServicesApp\\Services\\ServiceRequestRepository.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:59:36.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnnouncementStore.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Storage\\AnnouncementStore.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Storage\\AnnouncementStore.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Storage\\AnnouncementStore.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Storage\\AnnouncementStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:14:45.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnnouncementPersistence.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\AnnouncementPersistence.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Services\\AnnouncementPersistence.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\AnnouncementPersistence.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Services\\AnnouncementPersistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:12:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventPersistenceService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\EventPersistenceService.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Services\\EventPersistenceService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\EventPersistenceService.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Services\\EventPersistenceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:13:13.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Services\\RecommendationService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:13:31.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\App.xaml",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\App.xaml",
+              "RelativeToolTip": "MunicipalServicesApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-09T08:08:57.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\HomePage.xaml.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:08:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AvlTree.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\AvlTree.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\DataStructures\\AvlTree.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\DataStructures\\AvlTree.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\DataStructures\\AvlTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:58:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\HomePage.xaml",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\HomePage.xaml",
+              "RelativeToolTip": "MunicipalServicesApp\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-14T07:56:43.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRequestsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\ServiceRequestsPage.xaml",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\ServiceRequestsPage.xaml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\ServiceRequestsPage.xaml",
+              "RelativeToolTip": "MunicipalServicesApp\\ServiceRequestsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T13:04:14.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceRequestsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\ServiceRequestsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\ServiceRequestsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\ServiceRequestsPage.xaml.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\ServiceRequestsPage.xaml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:04:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\App.xaml.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\App.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:26:07.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddServiceRequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\AddServiceRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\AddServiceRequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\AddServiceRequestWindow.xaml.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\AddServiceRequestWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddServiceRequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\AddServiceRequestWindow.xaml",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\AddServiceRequestWindow.xaml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\AddServiceRequestWindow.xaml",
+              "RelativeToolTip": "MunicipalServicesApp\\AddServiceRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T13:05:33.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceRequestPersistence.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\ServiceRequestPersistence.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Services\\ServiceRequestPersistence.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Services\\ServiceRequestPersistence.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Services\\ServiceRequestPersistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:00:06.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:53:21.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Models\\Announcement.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Models\\Announcement.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\Models\\Announcement.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Models\\Announcement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:13:14.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\MunicipalServicesApp\\MunicipalServicesApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:08:04.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
